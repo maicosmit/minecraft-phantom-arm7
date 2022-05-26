@@ -1,4 +1,4 @@
-# minecraft-phantom
+# minecraft-phantom-arm7
 Run a [minecraft phantom proxy](https://github.com/jhead/phantom) in a Docker container.
 
 > *Makes hosted Bedrock/MCPE servers show up as LAN servers, specifically for Xbox.*
