@@ -13,8 +13,8 @@ Here is a `docker run` command that run the proxy in the background and automati
         --net=host\
         --restart=unless-stopped\
         -e SERVER=[your_server_ip]:[your_server_port]
-        nguyer/minecraft-phantom
+        maicosmit/minecraft-phantom-arm7
 
 Hopefully this is helpful to folks. Happy Minecrafting!
 
- -- nguyer
+ -- nguyer, maicosmit
